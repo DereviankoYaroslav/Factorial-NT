@@ -1,0 +1,3 @@
+C:/Users/yarik/CLionProjects/Factorial-NT/cmake-build-debug/CMakeFiles/Factorial_NT.dir
+C:/Users/yarik/CLionProjects/Factorial-NT/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/yarik/CLionProjects/Factorial-NT/cmake-build-debug/CMakeFiles/rebuild_cache.dir

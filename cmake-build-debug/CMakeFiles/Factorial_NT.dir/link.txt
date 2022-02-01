@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Factorial_NT.dir/objects.a
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\ar.exe cr CMakeFiles\Factorial_NT.dir/objects.a @CMakeFiles\Factorial_NT.dir\objects1.rsp
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\gcc.exe -g   -Wl,--whole-archive CMakeFiles\Factorial_NT.dir/objects.a -Wl,--no-whole-archive  -o Factorial_NT.exe -Wl,--out-implib,libFactorial_NT.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Factorial_NT.dir\linklibs.rsp
